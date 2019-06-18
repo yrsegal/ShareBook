@@ -1,0 +1,22 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "S",
+    "B",
+    "C"
+  ],
+  "key": {
+    "S": {
+      "item": "thaumcraft:salis_mundus"
+    },
+    "R": {
+      "item": "minecraft:book"
+    },
+    "C": {
+      "item": "thaumcraft:scribing_tools"
+    }
+  },
+  "result": {
+    "item": "sharetome:sharing_tome"
+  }
+}
